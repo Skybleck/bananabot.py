@@ -45,4 +45,4 @@ async def botlink(ctx):
 
 
 
-client.run('ODE5NzUyMTU3ODMzMDY4NTk2.YErLsA.wZW2H8L1A1VL2mpgo8TbN43x1pQ')
+client.run('Token')
